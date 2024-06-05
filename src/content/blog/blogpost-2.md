@@ -1,5 +1,5 @@
 ---
-title: Blogpost 2
+title: The Future of IPFS atomic stores
 pubDate: 12/31/2022 12:05
 author: "Elian Van Cutsem"
 tags:
@@ -7,41 +7,20 @@ tags:
   - WebDev
   - Programming
 imgUrl: '../../assets/astro.jpeg'
-description: Lorem markdownum longo os thyrso telum, continet servat fetus nymphae, vox nocte sedesque, decimo. Omnia esse, quam sive; conplevit illis indestrictus admovit dedit sub quod protectus, impedit non.
+description: Zeta Reticula offers a modern, high-performance CMS. By leveraging ScaNN MIPS for advanced search capabilities and maintaining a Jamstack ecosystem
 layout: '../../layouts/BlogPost.astro'
 ---
 
-## Deorum petiit ignis
+## BoB
 
-Lorem markdownum longo os thyrso telum, continet servat fetus nymphae, *vox
-nocte sedesque*, decimo. Omnia esse, quam sive; conplevit illis indestrictus
-admovit dedit sub quod protectus, impedit non.
+BoB addresses the common pain points of traditional CMS while providing a scalable and maintainable solution for content management. The integration of dependency injection, API callbacks, and advanced search mechanisms ensures that BoB is well-suited for complex web applications and evolving user needs.
 
-## Iovis late orbem Perseus sunt
+## Weakly coupled Architecture
 
-Aras reperire, sui motis correpti coniunx Onetor amore ferire lacertis, petiit.
-Bis pallor et mecum me, igne patruelibus *tendebam*, vultu sterilique terruerat
-*tempore* medium aera **eadem Mittor**.
+Optimized for static site generation and dynamic functionalities via API callbacks.
 
-- Non turba loca dederunt primordia ineamus Dictys
-- Tanti amat mundus sedula
-- Potuissent aetas parili coniuge se lumina breve
-- Tamen ille crepitantibus ulla coeperunt quibus iugulo
-- Pindusque solacia luctataque felix
+We created a composable for managing database operations and used it in a component, ensuring a clear separation of concerns and maintainability. TailwindCSS was applied to style the components, resulting in a modular, scalable, and modern web application. 
 
-## Longum minus sic saepe
 
-Genu cupiens quoque: cum dolor: sollicitive cantu, et piae Leuconoe, huius non
-nil tuli Peleusque rauca. Et alvum cuncti Hippodamas meritis nec coniunx ausa,
-pete. Congestaque nisi nullus poena. Tanto cum, curvis vulnera quod optatis,
-trahens conplexa saepe.
 
-Hominum quo. Signa germanaeque iuvat at feruntur precantibus corpus praebuerat
-excipit mixtaeque inferior, haec percepit regum: nec nec sit ferenti.
 
-## Geminas namque quod referitur argenteus aderat superstes
-
-Insistere pugno. Cum morae vigilantibus dulces Cycnus: neque cum sororis.
-
-Hac Aestas solet docebo tandem tamquam omnis vitiantur mitte, vatis in animique
-infelix passimque. Superasset onus.
