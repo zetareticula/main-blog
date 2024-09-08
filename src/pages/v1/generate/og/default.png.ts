@@ -19,8 +19,8 @@ export const GET: APIRoute = async () => {
     <div style="display:flex; height: 100%; width: 100%; background-color: white; border: 6px solid black; border-radius: 0.5rem; padding: 2rem; filter: drop-shadow(6px 6px 0 rgb(0 0 0 / 1));">
       <div style="display: flex; flex-direction: column; justify-content: space-between; width: 100%; filter: drop-shadow()">
         <div style="display: flex; flex-direction: column; gap: 0.75rem;">  
-          <p style="font-size: 48px;">Zeta Reticula</p>
-          <p style="font-size: 38px;">A DOM of DOMs Vulcan powered IPFS JAMstore for JAMSTACK</p>
+          <p style="font-size: 48px;">Klever</p>
+          <p style="font-size: 38px;">AI Powered Question and Answer app </p>
           <p style="font-size: 38px;">Brought to you by the creators of EinsteinDB.</p>
         </div>
         <div style="display: flex; justify-content: space-between; align-items: baseline; padding-top: -2rem;">
